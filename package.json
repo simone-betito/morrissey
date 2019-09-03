@@ -1,0 +1,16 @@
+{
+  "name": "morrissey",
+  "version": "0.0.1",
+  "description": "morrissey cancellation viz",
+  "main": "index.js",
+  "scripts": {},
+  "author": "SB and AL",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "json-2-csv": "^3.5.6"
+  }
+}
